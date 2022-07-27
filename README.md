@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img width="500" src="https://github.com/nathanaelduque/Reg.Linear-PrecoImoveis/blob/main/Figuras/images.jpeg" alt="Material Bread logo">
+  <img src="https://github.com/nathanaelduque/Reg.Linear-PrecoImoveis/blob/main/Figuras/BN-NW620_Modern_TOP_20160504200231.jpg" alt="Material Bread logo">
   
 </p>
 
