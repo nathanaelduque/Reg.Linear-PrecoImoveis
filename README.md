@@ -1,8 +1,16 @@
+
+
+<p align="center">
+
+  <img width="500" src="https://github.com/nathanaelduque/Reg.Linear-PrecoImoveis/blob/main/Figuras/images.jpeg" alt="Material Bread logo">
+  
+</p>
+
 <h1 align="center"> Precificação de imóveis </h1>
 
 ## English:
 
-From a database of properties taken extracted from the [Kaggle](https://www.kaggle.com/greenwing1985/housepricing) , a linear regression model was created to predict the price of properties using the variables of that database. After the model was created, it was used in a price simulator of real estate.
+From a database of properties taken from the [Kaggle](https://www.kaggle.com/greenwing1985/housepricing) , a linear regression model was created to predict the price of properties using the variables of that database. After the model was created, it was used in a price simulator of real estate.
 
 ## Português:
 
