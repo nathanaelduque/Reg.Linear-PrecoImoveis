@@ -2,7 +2,7 @@
 
 ## English:
 
-From a database of properties taken extracted from the Kaggle(https://www.kaggle.com/greenwing1985/housepricing) , a linear regression model was created to predict the price of properties using the variables of that database. After the model was created, it was used in a price simulator of real estate.
+From a database of properties taken extracted from the [Kaggle](https://www.kaggle.com/greenwing1985/housepricing) , a linear regression model was created to predict the price of properties using the variables of that database. After the model was created, it was used in a price simulator of real estate.
 
 ## Português:
 
