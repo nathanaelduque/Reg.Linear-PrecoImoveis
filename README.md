@@ -6,7 +6,7 @@
   
 </p>
 
-<h1 align="center"> Precificação de imóveis </h1>
+<h1 align="center"> Real Estate Pricing/Precificação de imóveis </h1>
 
 ## English:
 
